@@ -30,6 +30,10 @@ O banco é constituído por 5 tabelas relacionadas, sendo 4 delas principais e 1
 
 ![Alt ou título da imagem](https://github.com/Philippeizidorio/Create_DBSQLSERVER/blob/main/DER.png)
 
+## Observação:
+
+Neste caso em específico foi necessário extrairmos nomes de alguns livros a partir de uma base em __.CSV__, para isso, utilizamos um arquivo em formato __.XML__ para setar o tipo de __encoding__ e indicar os __formatos das colunas__. Todo o código de inserção pode ser acessado nos arquivos deste repositório ou simplesmente [**CLICANDO AQUI!**](https://github.com/Philippeizidorio/Create_DBSQLSERVER/blob/main/InserindoRegistros_db_Biblioteca.sql)
+
 ## Autor:
 
 <img  src="https://github.com/Philippeizidorio/Dashboard_PowerBIMarketing/assets/145637595/dd3c301c-3cd3-4808-92c8-a321553f7acf" width="80" alt="cognitiveclass.ai logo" align="left" /> 
