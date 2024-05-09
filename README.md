@@ -32,7 +32,7 @@ O banco é constituído por 5 tabelas relacionadas, sendo 4 delas principais e 1
 
 ## Observação:
 
-Neste caso em específico foi necessário extrairmos nomes de alguns livros a partir de uma base em __.CSV__, para isso, utilizamos um arquivo em formato __.XML__ para setar o tipo de __encoding__ e indicar os __formatos das colunas__. Todo o código de inserção pode ser acessado nos arquivos deste repositório ou diretamente [**CLICANDO AQUI!**](https://github.com/Philippeizidorio/Create_DBSQLSERVER/blob/main/InserindoRegistros_db_Biblioteca.sql)
+Neste caso em específico foi necessário extrairmos nomes de alguns livros a partir de uma base em __.CSV__, para isso, utilizamos um arquivo em formato __.XML__ para setar o tipo de __encoding__, indicar os __formatos das colunas__ e __registros__. Todo o código de inserção pode ser acessado nos arquivos deste repositório ou diretamente [**CLICANDO AQUI!**](https://github.com/Philippeizidorio/Create_DBSQLSERVER/blob/main/InserindoRegistros_db_Biblioteca.sql)
 
 ## Autor:
 
