@@ -28,7 +28,7 @@ O banco é constituído por 5 tabelas relacionadas, sendo 4 delas principais e 1
 
 ## ◾DER Do Banco Biblioteca:
 
-![Alt ou título da imagem](https://github.com/Philippeizidorio/Create_DBSQLSERVER/blob/main/DER.png)
+![Alt ou título da imagem](https://github.com/Philippeizidorio/Create_DBSQLSERVER/assets/145637595/39987f0c-b9e4-4fce-90f2-3f33cc1d4bf4)
 
 ## Observação:
 
