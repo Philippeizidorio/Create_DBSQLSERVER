@@ -34,6 +34,12 @@ O banco é constituído por 5 tabelas relacionadas, sendo 4 delas principais e 1
 
 Neste caso em específico foi necessário extrairmos nomes de alguns livros a partir de uma base em __.CSV__, para isso, utilizamos um arquivo em formato __.XML__ para setar o tipo de __encoding__, indicar os __formatos das colunas__ e __registros__. Todo o código de inserção pode ser acessado nos arquivos deste repositório ou diretamente [**CLICANDO AQUI!**](https://github.com/Philippeizidorio/Create_DBSQLSERVER/blob/main/InserindoRegistros_db_Biblioteca.sql)
 
+### ◾ Tecnologias Utilizadas: 
+<div <br> 
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+</div> 
+
 ## Autor:
 
 <img  src="https://github.com/Philippeizidorio/Dashboard_PowerBIMarketing/assets/145637595/dd3c301c-3cd3-4808-92c8-a321553f7acf" width="80" alt="cognitiveclass.ai logo" align="left" /> 
